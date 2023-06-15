@@ -1,4 +1,4 @@
-package org.example.utilites;
+package org.Temelio.Utilities;
 
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.xssf.usermodel.XSSFCell;
@@ -19,19 +19,10 @@ public class ExcelUtilities {
     public static XSSFRow row;
     public static XSSFCell cell;
 
-    //path = TestBase.path;
     static String path = "src/test/java/org/example/testData/Login_Data.xlsx";
     static String Cuspath = "src/test/java/org/example/testData/Customer_Data.xlsx";
 
-    //    private final Object sheetname = null;
-//
-//    // String Sheetname = "";
-//    public ExcelUtilities(String Sheet){
-//        Object sheet1 = this.sheetname;
-//
-//    }
     public static String excelData(String sheetname, String cellname) throws IOException {
-
 
         fis = new FileInputStream(path);
         XSSFWorkbook workbook = new XSSFWorkbook(fis);

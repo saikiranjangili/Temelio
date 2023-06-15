@@ -4,12 +4,11 @@ import com.aventstack.extentreports.Status;
 import org.Temelio.PageObjects.LoginPage;
 import org.Temelio.Utilities.Reports;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 @Listeners(Reports.class)
-public class TC_LoginTest_001 extends BaseClass {
+public class TC_LoginTest_001_Test extends BaseClass {
     WebDriver driver;
 
     @Test
@@ -22,9 +21,6 @@ public class TC_LoginTest_001 extends BaseClass {
 
         logger.log(Status.INFO, "The Login is successful");
 
-    }
-    @AfterTest
-    public void teardown() {
         driver.quit();
         logger.log(Status.INFO, "Browser is closed");
     }

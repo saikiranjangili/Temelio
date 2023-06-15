@@ -1,24 +1,26 @@
 package org.Temelio.testCases;
 
 import com.aventstack.extentreports.Status;
-import com.fasterxml.jackson.databind.ser.Serializers;
 import org.Temelio.PageObjects.ContactsPage;
 import org.Temelio.PageObjects.LoginPage;
 import org.Temelio.Utilities.Reports;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-
 import java.awt.*;
-import java.io.IOException;
+
 
 @Listeners(Reports.class)
-public class TC_GranteeHistory_006 extends BaseClass {
-    WebDriver driver =getDriver();
-    @Test
-    public void EditGrateeHistory() throws AWTException, InterruptedException, IOException {
-        logger.log(Status.INFO, "The Test addFoundationTag is started");
+public class TC_GranteeHistory_006_Test extends BaseClass {
+    WebDriver driver = getDriver();
 
+    @Test
+    public void EditGrateeHistory() throws AWTException, InterruptedException {
+
+        logger.log(Status.INFO, "The Test Grantee History  is started");
+        driver.get(baseUrl);
+        LoginPage lp = new LoginPage(driver);
+        lp.login();
         logger.log(Status.INFO, "The Login is successful");
         ContactsPage cp = new ContactsPage(driver);
         cp.organizationPage();
@@ -32,5 +34,11 @@ public class TC_GranteeHistory_006 extends BaseClass {
         cp.editDocuments();
         logger.log(Status.INFO, "Documents viewed and uploaded");
 
+        logger.log(Status.PASS, "The Test is sucessfull");
+
+        driver.quit();
+        logger.log(Status.INFO, "Browser is closed");
+
     }
+
 }

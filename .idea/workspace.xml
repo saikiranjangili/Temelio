@@ -4,13 +4,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="123cfb7c-09ae-445f-85a7-f06b18743820" name="Changes" comment="" />
+    <list default="true" id="123cfb7c-09ae-445f-85a7-f06b18743820" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ScreenShots/EditBudget.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreenShots/EditGrateeHistory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreenShots/addFoundationTags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreenShots/addTeamMember.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configurations/Contacts.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configurations/Contacts.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configurations/adminsetting.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configurations/adminsetting.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configurations/qa.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configurations/qa.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenShots/LoginTest.png" beforeDir="false" afterPath="$PROJECT_DIR$/ScreenShots/LoginTest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenShots/addContact.png" beforeDir="false" afterPath="$PROJECT_DIR$/ScreenShots/addContact.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/PageObjects/AdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/PageObjects/AdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/PageObjects/ContactsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/PageObjects/ContactsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/PageObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/PageObjects/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/Utilities/ExcelUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/Utilities/ExcelUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/Utilities/JavaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/Utilities/JavaUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/Utilities/ReadConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/Utilities/ReadConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/Utilities/Reports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/Utilities/Reports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_AddContact_004_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_AddContact_004_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_AddFoundationTags_003_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_AddFoundationTags_003_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_AddTeamMember_002_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_AddTeamMember_002_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_Budget_005_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_Budget_005_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_GranteeHistory_006_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_GranteeHistory_006_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_LoginTest_001_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/Temelio/testCases/TC_LoginTest_001_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.22.29html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.23.44html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.27.07html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.30.26html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.32.48html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.33.37html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.34.16html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.35.03html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.44.03html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.44.11html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.45.05html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.45.14html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.46.46html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.46.56html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.49.27html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.19.49.36html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.22.06.57html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.22.07.17html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.22.10.14html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.22.10.27html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.22.14.11html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.22.16.59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Test-Report-2023.06.15.22.17.09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -18,17 +85,146 @@
     </option>
   </component>
   <component name="ProjectId" id="2R5wgNPeiO5wFDkIGUQwOp88v8o" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Testing/Workspace/lombok-1.18.26.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.47470102&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Testing\Workspace\Temelio" />
+      <recent name="F:\Testing\Workspace\Temelio\src\test\java\org\Temelio\Utilities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Testing\Workspace\Temelio\Configurations" />
+      <recent name="F:\Testing\Workspace\Temelio" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.Temelio.Utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TC_AddFoundationTags_003_Test.addFoundationTags">
+    <configuration name="All in Temelio" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Temelio" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="jdk-19" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F:/Testing/Workspace/Temelio/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Temelio" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_AddContact_004_Test.addContact" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Temelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Temelio.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.Temelio.testCases" />
+      <option name="MAIN_CLASS_NAME" value="org.Temelio.testCases.TC_AddContact_004_Test" />
+      <option name="METHOD_NAME" value="addContact" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_AddFoundationTags_003_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Temelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Temelio.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.Temelio.testCases" />
+      <option name="MAIN_CLASS_NAME" value="org.Temelio.testCases.TC_AddFoundationTags_003_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_AddFoundationTags_003_Test.addFoundationTags" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Temelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Temelio.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.Temelio.testCases" />
+      <option name="MAIN_CLASS_NAME" value="org.Temelio.testCases.TC_AddFoundationTags_003_Test" />
+      <option name="METHOD_NAME" value="addFoundationTags" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_LoginTest_001_Test.LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Temelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Temelio.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.Temelio.testCases" />
+      <option name="MAIN_CLASS_NAME" value="org.Temelio.testCases.TC_LoginTest_001_Test" />
+      <option name="METHOD_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC_AddFoundationTags_003_Test.addFoundationTags" />
+        <item itemvalue="TestNG.TC_AddContact_004_Test.addContact" />
+        <item itemvalue="TestNG.TC_LoginTest_001_Test.LoginTest" />
+        <item itemvalue="TestNG.TC_AddFoundationTags_003_Test" />
+        <item itemvalue="TestNG.F:/Testing/Workspace/Temelio/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +235,8 @@
       <updated>1686553361967</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

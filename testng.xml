@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="F:/Testing/Workspace/Temelio"><classes><class name="org.Temelio.testCases.TC_AddTeamMember_002"><methods><include name="addTeamMember"/></methods></class><class name="org.Temelio.testCases.TC_LoginTest_001"><methods><include name="LoginTest"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Temelio">
+    <listeners>
+        <listener class-name="org.Temelio.Utilities.Reports"/>
+    </listeners>
+    <test name="Sanity">
+        <classes>
+            <class name="org.Temelio.testCases.TC_LoginTest_001_Test"/>
+        </classes>
+    </test>
+    <test name="Regression">
+        <classes>
+            <class name="org.Temelio.testCases.TC_AddTeamMember_002_Test"/>
+            <class name="org.Temelio.testCases.TC_AddFoundationTags_003_Test"/>
+            <class name="org.Temelio.testCases.TC_AddContact_004_Test"/>
+            <class name="org.Temelio.testCases.TC_Budget_005_Test"/>
+            <class name="org.Temelio.testCases.TC_GranteeHistory_006_Test"/>
+        </classes>
+    </test>
+
+</suite>
